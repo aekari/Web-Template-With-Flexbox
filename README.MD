@@ -6,6 +6,6 @@ A basic web template for projects.
 - header and footer sections
 - some css styling
 
-*Remember: After cloning this to local computer, remember to change the origin with git remote set-url origin...*
+*Remember: After cloning this to local computer, change the origin with git remote set-url origin...*
 
 ![](https://i.imgur.com/IE3jQCG.gif)
