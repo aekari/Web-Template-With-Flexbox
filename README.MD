@@ -1,5 +1,5 @@
-# Basic Web Template
-A basic web template for projects.
+# Web Template With Flexbox
+A dressed-down web template for future projects.
 
 ## Features
 - flexbox
